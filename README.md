@@ -89,7 +89,8 @@ This project demonstrates how combining Python, SQL, and Power BI can provide po
 
 ## 📷 Dashboard Preview
 
-<img width="589" height="339" alt="Dasboard" src="https://github.com/user-attachments/assets/8cad602a-5871-4f9c-b3fd-889911d6e0d0" />
+<img width="585" height="341" alt="Supply chain dashboard" src="https://github.com/user-attachments/assets/c1f5e208-3291-4ec7-ae1e-9c532b5035ee" />
+
 
 
 
